@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+div.img1 {
+    color:black;
+    background-color: aqua;
+    width: 1000px;
+    height: 100px;
+    text-align:center;
+}
+
+div.img1 p{
+    padding-top:20px;
+    font-size:40px;
+}
+
+div.img2{
+    color:black;
+    background-color: aqua;
+    width: 300px;
+    height: 400px;
+    text-align:center;
+}
+
+div.img2 p{
+    padding-top:200px;
+    font-size:40px;
+}
+
+div.img3{
+    color:black;
+    background-color: aqua;
+    width: 700px;
+    height: 400px;
+    text-align:center;
+}
+
+div.img3 p{
+    padding-top:200px;
+    font-size:40px;
+}
+
+div.img4{
+    color:black;
+    background-color: aqua;
+    width: 1000px;
+    height: 100px;
+    text-align:center;
+}
+
+div.img4 p{
+    padding-top:20px;
+    font-size:40px;
+}
